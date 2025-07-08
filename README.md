@@ -2,4 +2,4 @@
 
 
 
-(portfolio dashboard screenshot.png)
+![Power BI Dashboard](portfolio dashboard screenshot.png)
