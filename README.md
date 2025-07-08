@@ -7,42 +7,29 @@ This project is a portfolio showcase where I replicated a professional-level Pow
 📊 Overview
 This Power BI report provides a comprehensive overview of key sales and logistics metrics for a fictional chocolate company. It includes:
 
-Total Sales, Shipments, and Profit
-
-Profit Margins by Salesperson
-
-MoM Changes
-
-Shipment Trends by Month
-
-Geographical Segmentation
-
-Salesperson Performance Table
+  - Total Sales, Shipments, and Profit
+  - Profit Margins by Salesperson
+  - MoM Changes
+  - Shipment Trends by Month
+  - Geographical Segmentation
+  - Salesperson Performance Table
 
 🛠️ Tools & Technologies
-Power BI Desktop
-
-Data modeling using Power Query
-
-DAX for KPIs and calculated measures
-
-Interactive visualizations (bar, line, gauge charts, slicers)
+  - Power BI Desktop
+  - Data modeling using Power Query
+  - DAX for KPIs and calculated measures
+  - Interactive visualizations (bar, line, gauge charts, slicers)
 
 📁 Files in this Repository
-AwesomeChocolatesDashboard.pbix: The Power BI project file
-
-portfolio dashboard screenshot.png: Image preview of the dashboard
-
-README.md: Project overview and documentation
+  - AwesomeChocolatesDashboard.pbix: The Power BI project file
+  - portfolio dashboard screenshot.png: Image preview of the dashboard
+  - README.md: Project overview and documentation
 
 📌 Key Features
-Drill-down capability by region (Australia, Canada, India, etc.)
-
-Monthly trend analysis
-
-Dynamic profit percentage visualization
-
-Salesperson ranking and performance insights
+  - Drill-down capability by region (Australia, Canada, India, etc.)
+  - Monthly trend analysis
+  - Dynamic profit percentage visualization
+  - Salesperson ranking and performance insights
 
 ✅ Status
 📦 Completed – This dashboard is finalized as a portfolio item and will continue to evolve with new insights and data storytelling techniques.
