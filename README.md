@@ -32,6 +32,7 @@ This Power BI report provides a comprehensive overview of key sales and logistic
   - Salesperson ranking and performance insights
 
 ✅ Status
+
 📦 Completed – This dashboard is finalized as a portfolio item and will continue to evolve with new insights and data storytelling techniques.
 
 📸 Preview
